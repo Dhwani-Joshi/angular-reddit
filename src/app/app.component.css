@@ -1,0 +1,19 @@
+.field {
+    font-size: 20px;
+    margin-bottom : 10px;
+   
+}
+
+.ui-large-form-segment {
+    background-color: #f8f8f8;
+    text-align: center;
+    height: -webkit-fill-available;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+}
+.ui-positive-right-floated-button{
+    position: absolute;
+    color: black;
+    background-color:lightskyblue;
+}
